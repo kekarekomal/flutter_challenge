@@ -5,12 +5,14 @@ A new Flutter application.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+A Product of Plant Shop which has variety of plants.
 
-A few resources to get you started if this is your first Flutter project:
+Here's a screenshot of the application created
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1. Home Screen  - Here is the home screen containing the varieties of plants.
+2. Details page - When you click on shopping cart it contains the details of each plant.
+3. Profile Page - This page contains the profile of the person created the application.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
