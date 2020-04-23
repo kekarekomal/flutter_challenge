@@ -13,8 +13,7 @@ Here's a screenshot of the application created
 2. Details page - When you click on shopping cart it contains the details of each plant.
 3. Profile Page - This page contains the profile of the person created the application.
 
-<img src="Pants_app.jpg">
-<img src="Pants_app1.jpg">
+<img src="Pants_app.jpg">   <img src="Pants_app1.jpg">
 <img src="Pants_app2.jpg">
 
 
